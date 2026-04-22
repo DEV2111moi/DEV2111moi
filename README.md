@@ -19,3 +19,36 @@
 [![](https://komarev.com/ghpvc/?username=DEV2111moi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+```diff
++ 🧠 Dementia Detection System
+  → ML-based healthcare system for early dementia detection
+  → Focus: AI for real-world medical impact
+  → Tech: Python, TensorFlow, Pandas
+
++ 💬 Chat Application
+  → Real-time chat system with user interaction
+  → Tech: HTML, CSS, JavaScript, Firebase
+
++ 🏢 ERP Procurement System
+  → Web-based ERP system for procurement workflow management
+  → Tech: JavaScript, Node.js, Database
+
++ 🧾 Billing System
+  → Beverage store billing and transaction system
+  → Tech: HTML, JavaScript
+
++ 🛒 E-Commerce Cart System
+  → Shopping cart and product handling functionality
+  → Tech: JavaScript
+
++ 🗳️ Voting System
+  → Internship project simulating a secure voting system
+  → Tech: HTML, JavaScript
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEV2111moi&color=blue"/>
+</p>
