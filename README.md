@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/cef8f91f-5efc-4a60-a7ba-1aa3a44cddb0" />
-
+## ⚔️ Skill Tree
 🧠 Data Sorcerer (AI & Machine Learning)
 🔮 Conjuring intelligent models from streams of data  
 📊 Turning complex datasets into powerful real-world solutions  
