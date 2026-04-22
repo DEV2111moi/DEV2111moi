@@ -71,3 +71,18 @@ I use full stack development to deploy, scale, and make these AI solutions acces
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DEV2111moi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=DEV2111moi&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DEV2111moi&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DEV2111moi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+![](https://komarev.com/ghpvc/?username=DEV2111moi&color=0)
