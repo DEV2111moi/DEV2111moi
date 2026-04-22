@@ -1,13 +1,14 @@
 # 💫 About Me:
 <img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/cef8f91f-5efc-4a60-a7ba-1aa3a44cddb0" />
-## ⚔️ Skill Tree <br>
-🧠 Data Sorcerer (AI & Machine Learning)
-🔮 Conjuring intelligent models from streams of data  
-📊 Turning complex datasets into powerful real-world solutions  
+## ⚔️ Skill Tree
 
-💻 System Architect (Full Stack Development)
-🏗️ Forging scalable and high-performance web applications  
-⚡ Binding seamless frontends with resilient backend systems  
+### 🧠 Data Sorcerer (AI & Machine Learning)
+- 🔮 Conjuring intelligent models from streams of data  
+- 📊 Turning complex datasets into powerful real-world solutions  
+
+### 💻 System Architect (Full Stack Development)
+- 🏗️ Forging scalable and high-performance web applications  
+- ⚡ Binding seamless frontends with resilient backend systems  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devendra-kumar-p-89019237a?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev2111moi@gmail.com) 
