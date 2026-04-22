@@ -1,7 +1,6 @@
 # 💫 About Me:
-<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/86870299-c327-4be7-9dda-63bfbf29d8f5" />
+<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/cef8f91f-5efc-4a60-a7ba-1aa3a44cddb0" />
 
-## 💫 About Me<br><br>Hi 👋, I'm Devendra Kumar  <br> 
 🧠 Data Sorcerer (AI & Machine Learning)
 🔮 Conjuring intelligent models from streams of data  
 📊 Turning complex datasets into powerful real-world solutions  
