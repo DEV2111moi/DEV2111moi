@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🕹️ [Player]: Devendra Kumar  
+🎮 Class: Full-Stack & AI Sorcerer  
 
-<!--
-**DEV2111moi/DEV2111moi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧬 Developer Profile Loaded...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a creator on a quest to explore the space where **AI meets real-world impact**.  
+I forge systems that don’t just function—but **think, adapt, and feel intuitive**.
+
+My journey began with curiosity—understanding *why things work*.  
+From writing basic logic → to building full-stack apps → to training intelligent models.  
+
+⚡ Every line of code = XP toward mastering intelligent systems.
+
+---
+
+## ⚔️ Skill Tree
+
+### 🧠 Arcane Mind (AI & Machine Learning)
+- 🔮 Training models using real-world datasets  
+- 📊 Building intelligent prediction systems  
+- 🧩 Solving problems using data-driven approaches  
+
+### 💻 Master Builder (Full Stack Development)
+- 🏰 Building scalable web applications  
+- ⚡ Connecting frontend + backend seamlessly  
+- 🔐 Implementing secure and efficient systems 
