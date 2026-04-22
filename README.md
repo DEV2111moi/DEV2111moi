@@ -58,13 +58,23 @@
 - 🎯 Objective: Develop a system to simulate a secure and fair voting process.  
 - 🏆 Impact: Ensured structured voting flow and strengthened system reliability.  
 - ⚙️ Tech Stack: HTML, JavaScript  <br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DEV2111moi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DEV2111moi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DEV2111moi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=DEV2111moi&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=DEV2111moi&theme=dark&hide_border=false"/>
+  <br><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DEV2111moi&theme=dark&hide_border=false&layout=compact"/>
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DEV2111moi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DEV2111moi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=DEV2111moi&icon=0&color=0)](https://visitcount.itsvg.in)
