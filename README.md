@@ -69,20 +69,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEV2111moi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-[![](https://komarev.com/ghpvc/?username=DEV2111moi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
----
 <br>
 <p align="center">
 <i>The journey never ends.</i>
