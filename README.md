@@ -19,6 +19,8 @@
 [![](https://komarev.com/ghpvc/?username=DEV2111moi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+🚀 Projects
 + 🧠 Dementia Detection System
   → ML-based healthcare system for early dementia detection
   → Focus: AI for real-world medical impact
