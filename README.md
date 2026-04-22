@@ -34,3 +34,68 @@
 <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <br>
+
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=DEV2111moi&theme=dark&hide_border=false"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=DEV2111moi&theme=dark&hide_border=false"/>
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DEV2111moi&theme=dark&layout=compact"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DEV2111moi&theme=radical&no-frame=true&no-bg=true"/>
+</p>
+
+---
+
+## 🚀 Projects
+```diff
++ 🧠 Dementia Detection System
+  → ML-based healthcare system for early dementia detection
+  → Focus: AI for real-world medical impact
+  → Tech: Python, TensorFlow, Pandas
+
++ 💬 Chat Application
+  → Real-time chat system with user interaction
+  → Tech: HTML, CSS, JavaScript, Firebase
+
++ 🏢 ERP Procurement System
+  → Web-based ERP system for procurement workflow management
+  → Tech: JavaScript, Node.js, Database
+
++ 🧾 Billing System
+  → Beverage store billing and transaction system
+  → Tech: HTML, JavaScript
+
++ 🛒 E-Commerce Cart System
+  → Shopping cart and product handling functionality
+  → Tech: JavaScript
+
++ 🗳️ Voting System
+  → Internship project simulating a secure voting system
+  → Tech: HTML, JavaScript
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DEV2111moi&color=blue"/>
+</p>
